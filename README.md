@@ -17,4 +17,4 @@ Projenin kod altyapısında pratik yapılan başlıca SwiftUI ve UIKit kavramlar
 
 1. Bu projeyi klonlayın:
    ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ.git](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ.git)
+   (https://github.com/3Ibrahimcem3/GymAppTasarimCalismasi.git)
