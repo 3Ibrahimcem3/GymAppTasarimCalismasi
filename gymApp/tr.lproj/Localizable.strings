@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  gymApp
+
+  Created by İbrahim Cem Ekti on 11.08.2026.
+  
+*/
+
+"baslik" = "Evde kalsanız bile sağlığınızı koruyun";
+
+"altBaslik" = "İyi bir formda kalmak artık mobil uygulamalar aracılığıyla mümkün";
+
+"button" = "Şimdi Başlayın";
